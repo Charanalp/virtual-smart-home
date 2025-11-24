@@ -126,18 +126,7 @@ pip install -r requirements.txt
 The app auto-runs on port:
 ```
 PORT = os.environ.get("PORT", 10000)
-```
-
----
-
-## 📸 Screenshots (Add Your Own)
-You can upload:
-- Home dashboard  
-- Device panel  
-- Real-time chart  
-- Sensors screen  
-- Mobile view  
-
+``` 
 ---
 
 ## 🧑‍💻 Author
